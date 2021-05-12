@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BiometricAuthentication</string>
+    <string name="authText">Authenticate with Fingerprint</string>
+
+    <string name="error_msg_no_biometric_hardware">No Biometric Hardware</string>
+    <string name="error_msg_biometric_hw_unavailable">Biometric HW Unavailable</string>
+    <string name="error_msg_biometric_not_setup">Biometric not Setup</string>
+
 </resources>
